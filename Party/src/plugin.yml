@@ -1,0 +1,7 @@
+name: Party
+author: BinCodeDE
+version: 1.0.0
+main: me.bincode.party.PartyPlugin
+
+commands:
+     Party:
